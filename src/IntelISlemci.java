@@ -1,0 +1,2 @@
+ class IntelISlemci extends Islemci{
+}

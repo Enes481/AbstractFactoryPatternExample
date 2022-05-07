@@ -1,0 +1,4 @@
+ class SamsungMonitor extends Monitor{
+
+
+}

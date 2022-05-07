@@ -1,0 +1,2 @@
+class ViewSonicMonitor extends Monitor{
+}

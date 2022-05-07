@@ -1,0 +1,2 @@
+ class AMDIslemci extends Islemci{
+}
